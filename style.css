@@ -92,6 +92,7 @@ a {
     height: 1.25rem;
 }
 .icons{
+    margin-left: 2rem;
     font-size: 1.25rem;
     display: flex;
 } 
